@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+drowsiness.log
+shape_predictor_68_face_landmarks.dat

@@ -1,1 +1,5 @@
-opencv-python\ndlib\nnumpy\nscipy\npygame\n
+opencv-python
+dlib-bin
+numpy
+scipy
+pygame
